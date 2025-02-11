@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormFramework.Common", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{436DDDCF-BF9F-42AF-A573-E5B27B3BCB44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormFramework.CodeGeneration", "WinFormFramework.CodeGeneration\WinFormFramework.CodeGeneration.csproj", "{F1F46A2F-B6C2-4E1E-A224-F61B5C2627DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{1BE274C2-816B-4B8E-A80F-030912E6C406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE274C2-816B-4B8E-A80F-030912E6C406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE274C2-816B-4B8E-A80F-030912E6C406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F46A2F-B6C2-4E1E-A224-F61B5C2627DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F46A2F-B6C2-4E1E-A224-F61B5C2627DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F46A2F-B6C2-4E1E-A224-F61B5C2627DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F46A2F-B6C2-4E1E-A224-F61B5C2627DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
